@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Tarefa1310" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <!-- Defie a cor da status bar  -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <!-- Define a status bar para este tema (tema branco) -->
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.Tarefa1310" parent="Base.Theme.Tarefa1310" />
+</resources>

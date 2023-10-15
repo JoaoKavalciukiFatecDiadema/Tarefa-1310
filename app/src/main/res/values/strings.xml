@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarefa-1310</string>
+    <string name="text_aposentadoria">Calcule quanto tempo falta para sua aposentadoria abaixo</string>
+    <string name="text_genero">Escolha seu gênero</string>
+    <string name="text_masc">Masculino</string>
+    <string name="text_fem">Feminino</string>
+    <string name="text_idade">Digite sua idade</string>
+    <string name="text_calc">Calcular</string>
+</resources>
